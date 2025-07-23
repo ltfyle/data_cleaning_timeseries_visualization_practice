@@ -9,4 +9,4 @@
 * I learned:
   *  how to use the missingno package to analyze missing values
   *  how to use the groupby method to efficiently get the dependent values for visualizations of multi-level data.
-* I was disappointed that I couldn`t make my time series graphs more legible. I experimented with reducing the grainularity of the data by sorting by date, then taking every 10th row using the iloc method. This worked to make the quantity by location graph more legible, but it appeared to change the shape of the quantity by location by item graph. 
+* I was disappointed that I couldn`t make my time series graphs more legible. I experimented with reducing the grainularity of the data by sorting by date, then taking every 10th row using the iloc method. This worked to make the quantity by location graph more legible, but it appeared to change the shape of the quantity by location by item graph.
